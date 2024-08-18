@@ -1,6 +1,4 @@
-Here's a Markdown code for your README file that provides an overview of your Car Price Prediction Model Report:
 
-```markdown
 # Car Price Prediction Model Report
 
 ## 1. Objective
