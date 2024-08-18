@@ -86,6 +86,3 @@ The goal of this project is to predict car selling prices using a dataset contai
 ## 6. Conclusion
 The RandomForestRegressor model has been successfully trained and evaluated. It demonstrates strong performance in predicting car selling prices based on the provided features. Fine-tuning was performed using cross-validation, and feature importance analysis highlighted the most influential factors.
 
-```
-
-This README provides a comprehensive summary of your project, including data overview, preprocessing steps, model building, evaluation metrics, and conclusion. Adjust any placeholders or add specific values where needed.
